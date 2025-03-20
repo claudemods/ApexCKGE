@@ -29,9 +29,21 @@ Custom Built Elegantly Fast Forks Of CachyOS
 <div align="center">
 Let My Custom Made Taskbar Continue its Voyage
 
+
+   <h1>CachyOS Welcome</h1>
+   
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
+
+   <h1>Apex Welcome</h1>
+   
 ![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
+
+<h1>Current Custom Installed Application In Minimal</h1>
+
 ![Custom Apps](https://github.com/user-attachments/assets/149978a7-37c6-448b-a876-5229934cd47f)
+
+<h1>Apex CachyOS Kde Desktop</h1>
+
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/20715529-3d8b-48ee-bd66-f9c930c007e6)
 
 
