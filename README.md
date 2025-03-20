@@ -1,2 +1,39 @@
-# ApexCKGEForks
-Custom Forks Of CachyOS Kde
+<p align="center">
+<img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">	
+
+
+
+<div align="center">
+
+ 
+##  [Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+
+<div align="center">
+
+
+
+
+Apex CachyOS Kde Gamer's Edition
+
+<div align="center">
+Custom Built Elegantly Fast Forks Of CachyOS 
+
+<div align="center">
+4 isos will be provided 
+ <div align="center">
+2 Cachyos isos for Stable Kde Desktop Minimal And Full using CachyOS Repos
+  <div align="center">
+2 Cachyos isos for The Dev Kde Desktop Minimal And Full using CachyOS Repos And Kde Linux Repos
+<div align="center">
+ Lets Not Forget My Custom Made Taskbar it Was The First Thing i Ever Made On Linux 
+<div align="center">
+Let My Custom Made Taskbar Continue its Voyage
+
+
+![CachyOS Welcome](https://github.com/user-attachments/assets/1f3ffcf2-2554-4ff2-8cf5-6520c5e47c8f)
+![Custom Apps](https://github.com/user-attachments/assets/149978a7-37c6-448b-a876-5229934cd47f)
+![Apex cachyOS Desktop](https://github.com/user-attachments/assets/2716303e-7912-4050-8f5c-6546acc37f09)
+
+
+
+
