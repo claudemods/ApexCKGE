@@ -16,6 +16,8 @@
 
 Apex CachyOS Kde Gamer's Edition
 
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexBrowserAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
+
 <div align="center">
 Custom Built Elegantly Fast Forks Of CachyOS 
 
