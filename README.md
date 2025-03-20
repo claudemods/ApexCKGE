@@ -30,6 +30,7 @@ Custom Built Elegantly Fast Forks Of CachyOS
 Let My Custom Made Taskbar Continue its Voyage
 
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
+![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
 ![Custom Apps](https://github.com/user-attachments/assets/149978a7-37c6-448b-a876-5229934cd47f)
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/20715529-3d8b-48ee-bd66-f9c930c007e6)
 
