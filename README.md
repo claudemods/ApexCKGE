@@ -34,7 +34,7 @@
 
 
 
-## 🚧 More To Announce
+## 🏗️ More To Announce
   **Four specialized ISO variants coming soon!**
 
 
@@ -44,7 +44,7 @@
 
 
  
-## 🔧 Key Features 
+## 🛡️📦 Key Features 
   **1) custom taskbar similar to windows 11**
  
   **2) custom desktop photo**
