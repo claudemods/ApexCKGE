@@ -19,7 +19,7 @@
 # Custom Built Elegantly Fast Fork of CachyOS 🚀
 
 
-## 🏆 The Legend Continues...
+## The Legend Continues 🏆
 
 <div align="center">
   <strong>Let's not forget my custom made taskbar! 🌟</strong><br>
@@ -28,23 +28,23 @@
 </div>
 
 
-## 🦅 Start Your Journey Today!
+## Start Your Journey Today! 🦅 
   **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
 
 
 
-## 🏗️ More To Announce
+## More To Announce 🏗️
   **Four specialized ISO variants coming soon!**
 
 
-## 🔒 Password For Iso's
+## Password For Iso's 🔒 
   **2025**
   
 
 
  
-## 🛡️📦 Key Features 
+## Key Features 🛡️📦 
   **1) custom taskbar similar to windows 11**
  
   **2) custom desktop photo**
