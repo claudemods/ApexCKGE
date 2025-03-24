@@ -26,32 +26,6 @@
   **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
 
-
-
-
-
-## More To Announce! 🏗️
-  **Currently Only Apex CKGE Minimal Stable channel Is Available**
-  
-  **3 more specialized ISO variants coming soon**
-  
-  **The Legend Continues! 🏆**
-
-  **Let's not forget my custom made taskbar 🌟**
-  
-  **It was the first thing I ever made on Linux 🥇**
- 
-  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
-
- 
-
-
-## Password For Iso's! 🔒 
-  **2025**
-  
-
-
- 
 ## Key Features! 🛡️📦 
   **1) custom taskbar similar to windows 11**
  
@@ -66,19 +40,9 @@
   **6) custom system app to change the desktop photo or taskbar colour and more!**
  
   **7) always tested before its uploaded and you can find known issues in changelogs**
-   
 
 
-## ISO Variants! 📀
-
-### Stable channel (CachyOS, Aur + Kde Linux Repos)
- **Minimal CKGE with Kde Desktop From Cachyos Repos**  
- **Full CKGE with Kde Desktop From Cachyos Repos**
-
-### Unstable channel (CachyOS, Aur + Kde Linux Repos) 
- **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
- **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
-
+##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
    <h1>CachyOS Welcome</h1>
    
