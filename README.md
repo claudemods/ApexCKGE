@@ -29,8 +29,6 @@
 </div>
 
 
-<pre>
-
 <div align="center">
   <strong>Password For Iso's</strong>
  <strong>2025</strong>
