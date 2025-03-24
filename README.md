@@ -27,9 +27,11 @@
  <div align="center">
  <strong>2025</strong>
 
-
-# 🔧 Key Features
 <div style="list-style-type: none; padding-left: 0;">
+
+## 🔧 Key Features
+- **Item 1**  
+- **Item 2**
  **custom taskbar similar to windows 11**
   **custom desktop photo**
 - **custom dolphin services**
