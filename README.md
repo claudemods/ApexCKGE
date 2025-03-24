@@ -30,19 +30,19 @@
 <div style="list-style-type: none; padding-left: 0;">
 
 ## 🔧 Key Features 
-align="center">
+ <div align="center">
 **custom taskbar similar to windows 11**
-align="center">
+ <div align="center">">
 **custom desktop photo**
-align="center">
+ <div align="center">
 **custom dolphin services**
-align="center">
+ <div align="center">
 **latest system packages including kernel**
-align="center">
+ <div align="center">
 **custom set of application tailored for gamers**
-align="center">
+ <div align="center">
 **custom system tool to change desktop photo or taskbar colour and more!**
-align="center">
+ <div align="center">
 **always tested before its uploadeds**
 </div>
 
