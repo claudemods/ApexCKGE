@@ -38,7 +38,7 @@ Apex CachyOS Kde Gamer's Edition
 <div align="center">
   <strong>Let's not forget my custom made taskbar!</strong><br>
   It was the first thing I ever made on Linux.<br><br>
-  <em>Let my custom made taskbar continue its voyage...</em> 🛸
+  <em>Let my custom made taskbar continue its voyage🦅 </em>
 </div>
 
 ---
