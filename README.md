@@ -22,6 +22,11 @@
   <strong>Four specialized ISO variants coming soon!</strong>
 </div>
 
+<div align="center">
+  <strong>Password For Iso's</strong>
+ <strong>2025</strong>
+</div>
+
 ## 📦 ISO Variants
 
 ### Stable Branch (CachyOS, Aur + Kde Linux Repos)
