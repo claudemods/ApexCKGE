@@ -28,7 +28,7 @@
  <strong>2025</strong>
 
 ## 🔧 Key Features 
-# custom taskbar similar to windows 11
+</strong> custom taskbar similar to windows 11 </strong>
 # custom desktop photo
  <div align="center">
 **custom dolphin services**
