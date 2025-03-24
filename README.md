@@ -34,7 +34,7 @@
 
 
 
-## 🚧 More Coming Soon!
+## 🚧 More To Announce
   **Four specialized ISO variants coming soon!**
 
 
