@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <strong>Every Great Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
+  <strong>Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
 </div>
 
 
