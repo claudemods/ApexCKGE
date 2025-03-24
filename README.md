@@ -28,18 +28,22 @@
 
 ## Key Features! 🛡️📦 
   **1) custom taskbar similar to windows 11**
+
+  **2) windows ntfs drive support**
+
+  **3) added support for usbs in virt-manager**
+  
+  **4) custom desktop photo**
  
-  **2) custom desktop photo**
+  **5) custom dolphin service menus**
  
-  **3) custom dolphin service menus**
+  **6) latest system packages including kernel**
  
-  **4) latest system packages including kernel**
+  **7) custom set of applications tailored for gamers**
  
-  **5) custom set of applications tailored for gamers**
+  **8) custom system app to change the desktop photo or taskbar colour and more!**
  
-  **6) custom system app to change the desktop photo or taskbar colour and more!**
- 
-  **7) always tested before its uploaded and you can find known issues in changelogs**
+  **9) always tested before its uploaded and you can find known issues in changelogs**
 
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
