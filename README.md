@@ -36,8 +36,10 @@
 
 
 ## More To Announce! 🏗️
-  **Currently Only Apex CKGE Minimal Stable Branch Is Available**
+  **Currently Only Apex CKGE Minimal Stable Build Is Available**
+  
   **3 more specialized ISO variants coming soon**
+  
 
 
 ## Password For Iso's! 🔒 
@@ -65,11 +67,11 @@
 
 ## ISO Variants! 📀
 
-### Stable Branch (CachyOS, Aur + Kde Linux Repos)
+### Stable Build (CachyOS, Aur + Kde Linux Repos)
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
  **Full CKGE with Kde Desktop From Cachyos Repos**
 
-### Development Branch (CachyOS, Aur + Kde Linux Repos) 
+### Development Build (CachyOS, Aur + Kde Linux Repos) 
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
