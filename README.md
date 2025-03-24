@@ -18,7 +18,7 @@
 
 
 # Apex CachyOS Kde Gamer's Edition! 🎮
-# Custom Built Elegantly Fast Fork of CachyOS! 🚀
+# Custom Built Elegantly Fast Operating System Built On CachyOS! 🚀
 
 
 
