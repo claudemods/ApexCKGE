@@ -18,7 +18,7 @@
 
 
 ## Apex CachyOS Kde Gamer's Edition! 🎮
-**Unofficial Custom Arch Distribtion Inspired By Windows Built On Blazingly Fast CachyOS! 🚀**
+**Unofficial Custom Arch Distribution Inspired By Windows Built On Blazingly Fast CachyOS! 🚀**
  
  
 
