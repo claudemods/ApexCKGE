@@ -19,6 +19,12 @@
 # Custom Built Elegantly Fast Fork of CachyOS! 🚀
 
 
+
+## Start Your Journey Today! 🦅 
+  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
+
+
+
 ## The Legend Continues! 🏆
 
 <div align="center">
@@ -26,11 +32,6 @@
  <strong>It was the first thing I ever made on Linux 🥇</strong><br>
   <strong>Let my custom made taskbar continue its voyage 🚢🌊🏝️</strong><br>
 </div>
-
-
-## Start Your Journey Today! 🦅 
-  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
-
 
 
 
