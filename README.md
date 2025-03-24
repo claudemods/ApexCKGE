@@ -16,9 +16,10 @@
 
 [![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
 
-# Custom Built Elegantly Fast Operating System 
-# Built On CachyOS! 🚀
- **Apex CachyOS Kde Gamer's Edition! 🎮**
+
+## Apex CachyOS Kde Gamer's Edition! 🎮
+** Custom Built Elegantly Fast Operating System Built On CachyOS! 🚀**
+ 
  
 
 
