@@ -28,7 +28,8 @@
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
 
-## Preinstalled Application In Minimal v1.0 Stable Channel So Far!
+## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
+  
   **default cachyos kde packages installed**
   **extra packages installed include**
   **bauh store appimage**  
