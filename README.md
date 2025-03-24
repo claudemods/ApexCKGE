@@ -28,18 +28,16 @@
  <strong>2025</strong>
 
 ## 🔧 Key Features 
-</strong> custom taskbar similar to windows 11 </strong>
-# custom desktop photo
- <div align="center">
-**custom dolphin services**
- <div align="center">
-**latest system packages including kernel**
- <div align="center">
-**custom set of application tailored for gamers**
- <div align="center">
-**custom system tool to change desktop photo or taskbar colour and more!**
- <div align="center">
-**always tested before its uploadeds**
+<div align="center">
+  <pre>
+strong> custom taskbar similar to windows 11
+custom desktop photo
+custom dolphin services
+latest system packages including kernel
+custom set of application tailored for gamers
+custom system tool to change desktop photo or taskbar colour and more!
+always tested before its uploadeds
+   
 </div>
 
 ## 📦 ISO Variants
