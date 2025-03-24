@@ -16,20 +16,6 @@
 
 [![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
 
-## The Legend Continues! 🏆
-
-  <strong>Let's not forget my custom made taskbar 🌟</strong><br>
- <strong>It was the first thing I ever made on Linux 🥇</strong><br>
-  <strong>Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️</strong><br>
-
-
-
-
-## More To Announce! 🏗️
-  **Currently Only Apex CKGE Minimal Stable channel Is Available**
-  
-  **3 more specialized ISO variants coming soon**)
-
 
 # Apex CachyOS Kde Gamer's Edition! 🎮
 # Custom Built Elegantly Fast Fork of CachyOS! 🚀
@@ -39,6 +25,21 @@
 ## Start Your Journey Today! 🦅 
   **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
+
+
+
+
+
+## More To Announce! 🏗️
+  **Currently Only Apex CKGE Minimal Stable channel Is Available**
+  
+  **3 more specialized ISO variants coming soon## The Legend Continues! 🏆**
+
+  **Let's not forget my custom made taskbar 🌟**
+  
+  **It was the first thing I ever made on Linux 🥇**
+ 
+  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
 
  
 
