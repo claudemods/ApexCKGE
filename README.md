@@ -29,22 +29,22 @@
 
 
 ## Start Your Journey Today! 🦅 
-  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours! 🚀🎮💻**
+  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
 
 
 
-## More To Announce 🏗️
-  **Four specialized ISO variants coming soon!**
+## More To Announce! 🏗️
+  **Four specialized ISO variants coming soon**
 
 
-## Password For Iso's 🔒 
+## Password For Iso's! 🔒 
   **2025**
   
 
 
  
-## Key Features 🛡️📦 
+## Key Features! 🛡️📦 
   **1) custom taskbar similar to windows 11**
  
   **2) custom desktop photo**
@@ -61,7 +61,7 @@
    
 </div>
 
-## ISO Variants 📀
+## ISO Variants! 📀
 
 ### Stable Branch (CachyOS, Aur + Kde Linux Repos)
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
