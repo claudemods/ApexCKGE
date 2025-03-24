@@ -26,12 +26,12 @@ Apex CachyOS Kde Gamer's Edition
 ## 📦 ISO Variants
 
 ### Stable Branch (CachyOS Repos)
-- **KDE Desktop Minimal**  
-- **KDE Desktop Full**
+ **KDE Desktop Minimal**  
+ **KDE Desktop Full**
 
 ### Development Branch (CachyOS + KDE Linux Repos) 
-- **KDE Desktop Minimal (Dev)**  
-- **KDE Desktop Full (Dev)**
+ **KDE Desktop Minimal (Dev)**  
+ **KDE Desktop Full (Dev)**
 
 ## 🌟 The Legend Continues...
 
