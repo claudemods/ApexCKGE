@@ -1,6 +1,6 @@
 ## ISO Variants! 📀
-**Password For Iso's! is 2025 🔒** 
-  
+**Password For Iso's! 🔒** 
+  **2025**
 
 ### Stable channel (CachyOS, Aur + Kde Linux Repos)
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
@@ -9,10 +9,6 @@
 ### Unstable channel (CachyOS, Aur + Kde Linux Repos) 
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
-
- ## Password For Iso's! 🔒 
-  **2025**
-  
   
 
 ## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
