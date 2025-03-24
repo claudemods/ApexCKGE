@@ -61,7 +61,7 @@
    
 </div>
 
-## 📦 ISO Variants
+## ISO Variants 📀
 
 ### Stable Branch (CachyOS, Aur + Kde Linux Repos)
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
