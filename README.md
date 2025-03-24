@@ -27,19 +27,15 @@
  <div align="center">
  <strong>2025</strong>
 </div>
+## 🔧 Key Features
+- **custom taskbar similar to windows 11**
+- **custom desktop photo** 
+- **custom dolphin services**
+- **latest system packages including kernel**
+- **custom set of application tailored for gamers**
+- **custom system tool to change desktop photo or taskbar colour and more!**
+- **always tested before its uploadeds**
 
-<h2 align="center">🔧 Key Features</h2>
-<div align="center">
-  <ul style="display: inline-block; text-align: left; list-style-position: inside; padding-left: 0;">
-    <li>Custom taskbar similar to Windows 11</li>
-    <li>Custom desktop photo</li>
-    <li>Custom Dolphin services</li>
-    <li>Latest system packages including kernel</li>
-    <li>Custom set of applications tailored for gamers</li>
-    <li>Custom system tool to change desktop photo or taskbar color and more!</li>
-    <li>Always tested before being uploaded</li>
-  </ul>
-</div>
 ## 📦 ISO Variants
 
 ### Stable Branch (CachyOS, Aur + Kde Linux Repos)
