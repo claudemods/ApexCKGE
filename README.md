@@ -28,14 +28,15 @@
 </div>
 
 
-<div align="center">
-  <strong>Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
-</div>
+## 🦅 Start Your Journey Today!
+  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
 
-<div align="center">
-  <strong>Four specialized ISO variants coming soon!</strong>
-</div>
+
+
+## 🚧 More Coming Soon!
+  **Four specialized ISO variants coming soon!**
+
 
 ## 🔒 Password For Iso's
   **2025**
