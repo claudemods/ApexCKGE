@@ -18,6 +18,12 @@
 # Apex CachyOS Kde Gamer's Edition 🎮
 # Custom Built Elegantly Fast Fork of CachyOS 🚀
 
+
+<div align="center">
+  <strong>Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
+</div>
+
+
 <div align="center">
   <strong>Four specialized ISO variants coming soon!</strong>
 </div>
@@ -63,11 +69,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <strong>Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
-</div>
-
 
    <h1>CachyOS Welcome</h1>
    
