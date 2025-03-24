@@ -15,21 +15,21 @@
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
 [![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
-# Apex CachyOS Kde Gamer's Edition 🎮
-# Custom Built Elegantly Fast Fork of CachyOS 🚀
+# Apex CachyOS Kde Gamer's Edition! 🎮
+# Custom Built Elegantly Fast Fork of CachyOS! 🚀
 
 
 ## The Legend Continues 🏆
 
 <div align="center">
   <strong>Let's not forget my custom made taskbar! 🌟</strong><br>
- <strong>It was the first thing I ever made on Linux.🥇</strong><br>
-  <strong>Let my custom made taskbar continue its voyage 🚢🌊🏝️</strong><br>
+ <strong>It was the first thing I ever made on Linux! 🥇</strong><br>
+  <strong>Let my custom made taskbar continue its voyage! 🚢🌊🏝️</strong><br>
 </div>
 
 
 ## Start Your Journey Today! 🦅 
-  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
+  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours! 🚀🎮💻**
 
 
 
