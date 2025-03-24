@@ -36,7 +36,7 @@
  
   **4) latest system packages including kernel**
  
-  **5) custom set of application tailored for gamers**
+  **5) custom set of applications tailored for gamers**
  
   **6) custom system tool to change desktop photo or taskbar colour and more!**
  
