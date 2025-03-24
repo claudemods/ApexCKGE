@@ -27,11 +27,10 @@
 
 ## The Legend Continues! 🏆
 
-<div align="center">
   <strong>Let's not forget my custom made taskbar 🌟</strong><br>
  <strong>It was the first thing I ever made on Linux 🥇</strong><br>
   <strong>Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️</strong><br>
-</div>
+
 
 
 
@@ -63,7 +62,7 @@
  
   **7) always tested before its uploaded and you can find known issues in changelogs**
    
-</div>
+
 
 ## ISO Variants! 📀
 
@@ -75,8 +74,6 @@
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
-
----
 
    <h1>CachyOS Welcome</h1>
    
