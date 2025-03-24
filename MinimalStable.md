@@ -1,9 +1,9 @@
 ## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
 **default cachyos kde packages installed**
 **extra packages installed include**
- **bauh store appimage**  
- **dns manager appimage**  
- **stacer appimage**  
+**bauh store appimage**  
+**dns manager appimage**  
+**stacer appimage**  
 **balena-etcher appimage**  
 **gwenview**  
 **ksystemlog**  
