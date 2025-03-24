@@ -35,10 +35,7 @@
   <strong>Password For Iso's</strong>
  <strong>2025</strong>
 
- <pre>
- </div>
 
-  
  
 ## 🔧 Key Features 
   **1) custom taskbar similar to windows 11**
