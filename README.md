@@ -14,17 +14,7 @@
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
-# Apex CachyOS Kde Gamer's Edition! 🎮
-# Custom Built Elegantly Fast Fork of CachyOS! 🚀
-
-
-
-## Start Your Journey Today! 🦅 
-  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
-
-
-
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025
 ## The Legend Continues! 🏆
 
   <strong>Let's not forget my custom made taskbar 🌟</strong><br>
@@ -37,8 +27,19 @@
 ## More To Announce! 🏗️
   **Currently Only Apex CKGE Minimal Stable channel Is Available**
   
-  **3 more specialized ISO variants coming soon**
-  
+  **3 more specialized ISO variants coming soon**)
+
+
+# Apex CachyOS Kde Gamer's Edition! 🎮
+# Custom Built Elegantly Fast Fork of CachyOS! 🚀
+
+
+
+## Start Your Journey Today! 🦅 
+  **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
+
+
+ 
 
 
 ## Password For Iso's! 🔒 
