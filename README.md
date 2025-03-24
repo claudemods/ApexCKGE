@@ -33,7 +33,9 @@
 ## More To Announce! 🏗️
   **Currently Only Apex CKGE Minimal Stable channel Is Available**
   
-  **3 more specialized ISO variants coming soon## The Legend Continues! 🏆**
+  **3 more specialized ISO variants coming soon**
+  
+  **The Legend Continues! 🏆**
 
   **Let's not forget my custom made taskbar 🌟**
   
