@@ -28,7 +28,7 @@
   <strong>Four specialized ISO variants coming soon!</strong>
 </div>
 
-<pre>
+</div>
 
 <div align="center">
   <strong>Password For Iso's</strong>
