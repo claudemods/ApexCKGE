@@ -30,16 +30,17 @@
 
 <div align="center">
 
-## 🔧 Key Features
-<div align="center">
-- custom taskbar similar to windows 11
-- custom desktop photo
-- custom dolphin services
-- latest system packages including kernel
-- custom set of application tailored for gamers
-- custom system tool to change desktop photo or taskbar colour and more!
-- always tested before its uploaded
+## 🔧 Key Features  
 
+- Custom taskbar similar to Windows 11  
+- Custom desktop photo  
+- Custom Dolphin services  
+- Latest system packages including kernel  
+- Custom set of applications tailored for gamers  
+- Custom system tool to change desktop photo or taskbar color and more!  
+- Always tested before being uploaded  
+
+</div>
 
 ## 📦 ISO Variants
 
