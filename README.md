@@ -71,7 +71,7 @@
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
  **Full CKGE with Kde Desktop From Cachyos Repos**
 
-### unstable channel (CachyOS, Aur + Kde Linux Repos) 
+### Unstable channel (CachyOS, Aur + Kde Linux Repos) 
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
