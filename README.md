@@ -28,18 +28,16 @@
  <strong>2025</strong>
 </div>
 
-<div align="center">
-  <h2>🔧 Key Features</h2>
-  <ul style="text-align: center; list-style-position: inside; padding-left: 0;">
-    <li>Custom taskbar similar to Windows 11</li>
-    <li>Custom desktop photo</li>
-    <li>Custom Dolphin services</li>
-    <li>Latest system packages including kernel</li>
-    <li>Custom set of applications tailored for gamers</li>
-    <li>Custom system tool to change desktop photo or taskbar color and more!</li>
-    <li>Always tested before being uploaded</li>
-  </ul>
-</div>
+<h2 align="center">🔧 Key Features</h2>
+<ul style="display: table; margin: 0 auto; text-align: left; list-style-position: inside; padding-left: 0;">
+  <li>Custom taskbar similar to Windows 11</li>
+  <li>Custom desktop photo</li>
+  <li>Custom Dolphin services</li>
+  <li>Latest system packages including kernel</li>
+  <li>Custom set of applications tailored for gamers</li>
+  <li>Custom system tool to change desktop photo or taskbar color and more!</li>
+  <li>Always tested before being uploaded</li>
+</ul>
 
 ## 📦 ISO Variants
 
