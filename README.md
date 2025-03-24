@@ -61,7 +61,7 @@
  
   **6) custom system app to change the desktop photo or taskbar colour and more!**
  
-  **7) always tested before its uploaded**
+  **7) always tested before its uploaded and you find bug reports in changelogs**
    
 </div>
 
