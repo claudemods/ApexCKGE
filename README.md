@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <strong>Every great journey begins with a system let this be yours🌊⛵</strong><br>
+  <strong>Every great journey begins with a system let this be yours🎮💻🚀</strong><br>
 </div>
 
 
