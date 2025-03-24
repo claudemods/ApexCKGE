@@ -38,7 +38,7 @@
  
   **5) custom set of applications tailored for gamers**
  
-  **6) custom system tool to change desktop photo or taskbar colour and more!**
+  **6) custom system tool to change the desktop photo or taskbar colour and more!**
  
   **7) always tested before its uploaded**
    
