@@ -1,4 +1,10 @@
+  **The Legend Continues! 🏆**
 
+  **Let's not forget my custom made taskbar 🌟**
+  
+  **It was the first thing I ever made on Linux 🥇**
+ 
+  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
 
 ## Password For Iso's! 🔒 
   **2025**
@@ -9,14 +15,6 @@
   
   **3 more specialized ISO variants coming soon**
   
-  **The Legend Continues! 🏆**
-
-  **Let's not forget my custom made taskbar 🌟**
-  
-  **It was the first thing I ever made on Linux 🥇**
- 
-  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
-   
 
 
 ## ISO Variants! 📀
