@@ -28,6 +28,8 @@
   <strong>Four specialized ISO variants coming soon!</strong>
 </div>
 
+<pre>
+
 <div align="center">
   <strong>Password For Iso's</strong>
  <div align="center">
@@ -38,7 +40,7 @@
  
   **2) custom desktop photo**
  
-  **3) custom dolphin services**
+  **3) custom dolphin service menus**
  
   **4) latest system packages including kernel**
  
