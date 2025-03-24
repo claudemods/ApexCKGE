@@ -36,7 +36,7 @@
 
 
 ## More To Announce! 🏗️
-  **Four specialized ISO variants coming soon**
+  **3 more specialized ISO variants coming soon**
 
 
 ## Password For Iso's! 🔒 
