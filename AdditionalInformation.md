@@ -1,16 +1,3 @@
- **The Legend Continues! 🏆**
-
-  **Let's not forget my custom made taskbar 🌟**
-  
-  **It was the first thing I ever made on Linux 🥇**
- 
-  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
-
-## Password For Iso's! 🔒 
-  **2025**
-  
-
-  
 ## ISO Variants! 📀
 
 ### Stable channel (CachyOS, Aur + Kde Linux Repos)
@@ -21,6 +8,10 @@
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
+ ## Password For Iso's! 🔒 
+  **2025**
+  
+  
 
 ## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
 ##  [Minimal Stable Channel Applications](https://github.com/claudemods/ApexCKGE/blob/main/MinimalStable.md)
@@ -30,4 +21,14 @@
   **Currently Only Apex CKGE Minimal Stable channel Is Available**
   
   **3 more specialized ISO variants coming soon**
+ 
+ **The Legend Continues! 🏆**
+
+  **Let's not forget my custom made taskbar 🌟**
+  
+  **It was the first thing I ever made on Linux 🥇**
+ 
+  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
+
+
   
