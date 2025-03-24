@@ -19,6 +19,15 @@
 # Custom Built Elegantly Fast Fork of CachyOS 🚀
 
 
+## 🏆 The Legend Continues...
+
+<div align="center">
+  <strong>Let's not forget my custom made taskbar! 🌟</strong><br>
+ <strong>It was the first thing I ever made on Linux.🥇</strong><br>
+  <strong>Let my custom made taskbar continue its voyage 🚢🌊🏝️</strong><br>
+</div>
+
+
 <div align="center">
   <strong>Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻</strong><br>
 </div>
@@ -61,13 +70,6 @@
  **Minimal CKGE With Kde Dev Desktop From Kdelinux Repos**  
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
 
-## 🏆 The Legend Continues...
-
-<div align="center">
-  <strong>Let's not forget my custom made taskbar! 🌟</strong><br>
- <strong>It was the first thing I ever made on Linux.🥇</strong><br>
-  <strong>Let my custom made taskbar continue its voyage 🚢🌊🏝️</strong><br>
-</div>
 
 ---
 
