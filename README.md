@@ -17,20 +17,35 @@
 Apex CachyOS Kde Gamer's Edition
 
 [![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
+# 🚀 Custom Built Elegantly Fast Forks of CachyOS
 
 <div align="center">
-Custom Built Elegantly Fast Forks Of CachyOS 
+  <strong>Four specialized ISO variants coming soon!</strong>
+</div>
+
+## 📦 ISO Variants
+
+### Stable Branch (CachyOS Repos)
+- **KDE Desktop Minimal**  
+- **KDE Desktop Full**
+
+### Development Branch (CachyOS + KDE Linux Repos) 
+- **KDE Desktop Minimal (Dev)**  
+- **KDE Desktop Full (Dev)**
+
+## 🌟 The Legend Continues...
 
 <div align="center">
-4 isos will be provided 
- <div align="center">
-2 Cachyos isos for Stable Kde Desktop Minimal And Full using CachyOS Repos
-  <div align="center">
-2 Cachyos isos for The Dev Kde Desktop Minimal And Full using CachyOS Repos And Kde Linux Repos
+  <strong>Let's not forget my custom made taskbar!</strong><br>
+  It was the first thing I ever made on Linux.<br><br>
+  <em>Let my custom made taskbar continue its voyage...</em> 🛸
+</div>
+
+---
+
 <div align="center">
- Lets Not Forget My Custom Made Taskbar it Was The First Thing i Ever Made On Linux 
-<div align="center">
-Let My Custom Made Taskbar Continue its Voyage
+  <small>"Every great journey begins with a single widget"</small>
+</div>
 
 
    <h1>CachyOS Welcome</h1>
