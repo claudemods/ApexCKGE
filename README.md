@@ -6,7 +6,7 @@
 <div align="center">
 
  
-##  [Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+##  [Isos Created With Apex Iso Creator](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
 
 <div align="center">
 
