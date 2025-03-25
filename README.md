@@ -59,6 +59,7 @@
 ![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
 
 <h1>Current Custom Installed Applications In Unreleased Minimal v1.01</h1>
+
 ![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
 
