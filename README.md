@@ -14,7 +14,7 @@
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGEForks?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGEForks/releases/tag/CKGE-Builds-20-03-2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGE/releases/tag/CKGE-Build-25-03-2025)
 
 
 ## Apex CachyOS Kde Gamer's Edition! 🎮
@@ -58,7 +58,7 @@
    
 ![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
 
-<h1>Current Custom Installed Applications In Unreleased Minimal v1.01</h1>
+<h1>Current Custom Installed Applications In CKGE Minimal</h1>
 
 ![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
