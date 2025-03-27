@@ -4,8 +4,11 @@
 **extra packages installed include**
 
 **apex browser**
+
 **apex html viewer**
+
 **apex iso creator script**
+
 **apex iso creator gui**
 
 **bauh store appimage**  
