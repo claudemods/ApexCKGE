@@ -6,7 +6,7 @@
 <div align="center">
 
  
-##  [Isos Created With Apex Iso Creator](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+##  [All Isos Created With Apex Iso Creator](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
 
 <div align="center">
 
