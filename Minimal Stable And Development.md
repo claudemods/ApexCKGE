@@ -1,7 +1,7 @@
 ## Preinstalled Applications In Minimal v1.01 So Far!💻
 **default cachyos kde packages installed**
 
-**extra packages installed include
+**extra packages installed include**
 
 - apex browser
 - apex html viewer
