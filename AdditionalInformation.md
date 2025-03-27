@@ -21,9 +21,6 @@
 ##  [Full Stable Channel Applications](https://github.com/claudemods/ApexCKGE/blob/main/Full%20Stable%20And%20Development.md)
   
 ## More To Announce! 🏗️
-  **Currently Only Apex CKGE Minimal And Full Stable Channel Is Available**
-  
-  **2 more specialized ISO variants coming soon**
  
  **The Legend Continues! 🏆**
 
