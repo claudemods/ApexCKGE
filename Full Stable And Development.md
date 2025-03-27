@@ -2,8 +2,6 @@
 **default cachyos kde packages installed**
 
 **extra packages installed include**
-
-
 **bottles**
 **steam**
 **xbox gaming cloud**
