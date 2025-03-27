@@ -1,12 +1,12 @@
-## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
+## Preinstalled Applications In Minimal v1.01 So Far!💻
 **default cachyos kde packages installed**
 
 **extra packages installed include**
 
-**apex browser**__
-**apex html viewer**__
-**apex iso creator script**__
-**apex iso creator gui**__
+**apex browser**
+**apex html viewer**
+**apex iso creator script**
+**apex iso creator gui**
 **bauh store appimage**  
 **dns manager appimage**  
 **stacer appimage**  
