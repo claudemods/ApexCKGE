@@ -63,7 +63,7 @@
 ![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
 
-<h1>Current Custom Installed Applications In CKGE Full "not released yet</h1>
+<h1>Current Custom Installed Applications In CKGE Full "not released yet"</h1>
 
 ![Custom Apps](https://github.com/user-attachments/assets/82e718eb-28b4-4697-a6a0-a3e03825b6f5)
 
