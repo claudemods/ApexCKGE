@@ -63,6 +63,10 @@
 ![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
 
+<h1>Current Custom Installed Applications In CKGE Full "not released yet</h1>
+![Custom Apps](https://github.com/user-attachments/assets/82e718eb-28b4-4697-a6a0-a3e03825b6f5)
+
+
 <h1>Apex CachyOS Kde Desktop</h1>
 
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/20715529-3d8b-48ee-bd66-f9c930c007e6)
