@@ -2,6 +2,7 @@
 **default cachyos kde packages installed**
 
 **extra packages installed include**
+
 **bottles**
 **steam**
 **xbox gaming cloud**
@@ -10,7 +11,7 @@
 **facebook messanger**
 **whatsapp**
 **discord**
-**telegram
+**telegram**
 **qbittorrent**
 **youtube downloader**
 **mega downloader**
