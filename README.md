@@ -29,7 +29,7 @@
 
 
 ## Key Features! 🛡️📦 
-  **1) custom taskbar similar to windows 11**
+  **1) custom taskbar similar to windows**
 
   **2) windows ntfs drive support**
 
