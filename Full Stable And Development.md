@@ -1,4 +1,4 @@
-## Preinstalled Applications In Minimal v1.0 Stable Channel So Far!💻
+## Preinstalled Applications In Full v1.01 So Far!💻
 **default cachyos kde packages installed**
 
 **extra packages installed include**
