@@ -18,7 +18,7 @@
 ##  [Minimal Stable Channel Applications](https://github.com/claudemods/ApexCKGE/blob/main/MinimalStable.md)
 
   ## Preinstalled Applications In Full v1.01 Stable Channel So Far!💻
-##  [Full Stable Channel Applications}(https://github.com/claudemods/ApexCKGE/blob/main/Full%20Stable%20And%20Development.md)
+##  [Full Stable Channel Applications](https://github.com/claudemods/ApexCKGE/blob/main/Full%20Stable%20And%20Development.md)
   
 ## More To Announce! 🏗️
   **Currently Only Apex CKGE Minimal And Full Stable Channel Is Available**
