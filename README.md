@@ -68,12 +68,12 @@
 ![Custom Apps](https://github.com/user-attachments/assets/85a59e0a-bce3-4ec6-b530-fc5246a544eb)
 
 
-<h1>Apex CachyOS Kde Desktop Stable Channel</h1>
+<h1>Apex CachyOS Kde Stable Channel Desktop</h1>
 
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/20715529-3d8b-48ee-bd66-f9c930c007e6)
 
 
-<h1>Apex CachyOS Kde Desktop Development Channel</h1>
+<h1>Apex CachyOS Kde Development Channel Desktop</h1>
 
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/9a0bc287-6198-4e5e-8ae3-be8f91843a97)
 
