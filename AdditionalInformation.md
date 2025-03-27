@@ -19,9 +19,9 @@
   
   
 ## More To Announce! 🏗️
-  **Currently Only Apex CKGE Minimal Stable channel Is Available**
+  **Currently Only Apex CKGE Minimal And Full Stable Channel Is Available**
   
-  **3 more specialized ISO variants coming soon**
+  **2 more specialized ISO variants coming soon**
  
  **The Legend Continues! 🏆**
 
