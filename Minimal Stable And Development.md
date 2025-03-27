@@ -1,5 +1,6 @@
 ## Preinstalled Applications In Minimal v1.01 So Far!💻
-**default cachyos kde packages installed**
+- default cachyos kde packages installed In Stable Channel
+- default kde dev packages installed In Development Channel
 
 **extra packages installed include**
 
