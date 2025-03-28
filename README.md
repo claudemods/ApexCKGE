@@ -58,12 +58,12 @@
    
 ![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
 
-<h1>Installed Applications In CKGE Minimal Stable Channel</h1>
+<h1>Installed Applications In CKGE Minimal</h1>
 
 ![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
 
-<h1>Installed Applications In CKGE Full Stable Channel</h1>
+<h1>Installed Applications In CKGE Full</h1>
 
 ![Custom Apps](https://github.com/user-attachments/assets/85a59e0a-bce3-4ec6-b530-fc5246a544eb)
 
