@@ -13,7 +13,7 @@
  **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
   
 
-## Preinstalled Applications In Minimal Stable And Development Channel So Far!💻
+## Preinstalled Applications In Minimal Stable Channel So Far!💻
 ##  [Minimal Stable Channel Applications](https://github.com/claudemods/ApexCKGE/blob/main/Minimal%20Stable%20And%20Development.md)
 
   ## Preinstalled Applications In Full Stable And Development Channel So Far!💻
