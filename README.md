@@ -14,7 +14,7 @@
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/OS-Arch-0000FF?style=for-the-badge&logo=linux" /></a>
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGE/releases/tag/CKGE-Build-25-03-2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexCKGE/releases/tag/CKGE-Build-27-03-2025)
 
 
 ## Apex CachyOS Kde Gamer's Edition! 🎮
