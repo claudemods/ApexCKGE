@@ -137,7 +137,7 @@ private slots:
             process->deleteLater();
         });
 
-        process->start("konsole", QStringList() << "--noclose" << "-e" << "sudo" << "/opt/apex-btrfsinstaller/btrfsinstaller.bin");
+        process->start("konsole", QStringList() << "--noclose" << "-e" << "sudo" << "bash /opt/apex-btrfsinstaller/btrfssquashfs.sh");
     }
 
     void downloadAndShowChangeLog() {
