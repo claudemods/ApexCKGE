@@ -65,13 +65,13 @@
 
 <h1>Installed Applications In CKGE Minimal</h1>
 
-![Custom Apps](https://github.com/user-attachments/assets/6a848307-678d-4164-a176-65153035247c)
+![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
 
 
 
 <h1>Installed Applications In CKGE Full</h1>
 
-![Custom Apps](https://github.com/user-attachments/assets/85a59e0a-bce3-4ec6-b530-fc5246a544eb)
+![Custom Apps](https://github.com/user-attachments/assets/6a848307-678d-4164-a176-65153035247c)
 
 
 <h1>Apex CachyOS Kde Stable Channel Desktop</h1>
