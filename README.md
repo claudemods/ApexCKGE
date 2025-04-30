@@ -50,6 +50,10 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
+<h1>All New Updates Will Be .img.xz Only</h1>
+
+
+
    <h1>CachyOS Welcome</h1>
    
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
