@@ -60,11 +60,13 @@
 
    <h1>Apex Welcome</h1>
    
-![Apex Welcome](https://github.com/user-attachments/assets/16609b3d-d4de-49b9-9df1-aae6a8ea5cc8)
+![Apex Welcome](](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
+
 
 <h1>Installed Applications In CKGE Minimal</h1>
 
-![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
+![Custom Apps](https://github.com/user-attachments/assets/6a848307-678d-4164-a176-65153035247c)
+
 
 
 <h1>Installed Applications In CKGE Full</h1>
@@ -74,12 +76,13 @@
 
 <h1>Apex CachyOS Kde Stable Channel Desktop</h1>
 
-![Apex cachyOS Desktop](https://github.com/user-attachments/assets/20715529-3d8b-48ee-bd66-f9c930c007e6)
+![Apex cachyOS Desktop](https://github.com/user-attachments/assets/67d494b1-471c-485e-ba9b-fcd66f6362b5)
 
 
 <h1>Apex CachyOS Kde Development Channel Desktop</h1>
 
-![Apex cachyOS Desktop](https://github.com/user-attachments/assets/9a0bc287-6198-4e5e-8ae3-be8f91843a97)
+![Apex cachyOS Desktop](https://github.com/user-attachments/assets/130e76f3-488a-47b4-a8d0-34007681c59d)
+)
 
 
 <h1>Dolphin</h1>
