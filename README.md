@@ -90,7 +90,6 @@ use btrfsrsync to install the live .img
 <h1>Apex CachyOS Kde Development Channel Desktop</h1>
 
 ![Apex cachyOS Desktop](https://github.com/user-attachments/assets/130e76f3-488a-47b4-a8d0-34007681c59d)
-)
 
 
 <h1>Dolphin</h1>
