@@ -56,6 +56,7 @@
 download one of my provided.img.xz files extract the .img.xz use https://etcher.balena.io/ to burn the .img to usb
 boot the usb
 download btrfsrsync from browser with link https://github.com/claudemods/APEXCKHE/tree/main/Installer 
+<div align="center">
 use btrfsrsync to install the live .img
 
 
