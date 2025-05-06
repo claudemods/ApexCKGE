@@ -68,7 +68,7 @@ use btrfsrsync to install the live .img
 
    <h1>Apex Welcome</h1>
    
-![Apex Welcome](](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
+![Apex Welcome](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
 
 
 <h1>Installed Applications In CKGE Minimal</h1>
