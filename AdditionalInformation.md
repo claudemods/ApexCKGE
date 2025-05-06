@@ -1,9 +1,9 @@
 
-**Password For Iso's! 🔒** 
+**Password For img.xz's! 🔒** 
   
   **2025**
 
-## ISO Variants! 📀
+## .img.xz Variants! 📀
 
 ### Stable channel (CachyOS, Aur + Kde Linux Repos)
  **Minimal CKGE with Kde Desktop From Cachyos Repos**  
