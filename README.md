@@ -53,7 +53,7 @@
 <h1>All New Updates Will Be .img.xz Only</h1>
 
 ### Install Instructions Currently As My BtrfsRsync Installer Wasnt Installed in the .img clones
-download one of my provided.img.xz files extract the .img.xz use https://etcher.balena.io/ to burn the .img to usb
+download one of my provided .img.xz files extract the .img.xz use https://etcher.balena.io/ to burn the .img to usb
 boot the usb
 download btrfsrsync from browser with link https://github.com/claudemods/APEXCKHE/tree/main/Installer 
 <div align="center">
