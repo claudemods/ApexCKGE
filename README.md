@@ -60,7 +60,7 @@ boot the usb
   <div align="center">
 download btrfsrsync from browser with link https://github.com/claudemods/APEXCKHE/tree/main/Installer 
 <div align="center">
-use btrfsrsync to install the live .img
+use btrfsrsync to install the live environments contents
 
 
 
