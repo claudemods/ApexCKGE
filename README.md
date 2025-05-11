@@ -50,11 +50,11 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>All New Updates Will Be .raw.xz Only</h1>
+<h1>All New Updates Will Be .img.xz Only</h1>
 
 ### Install Instructions
 <div align="center">
-currently im changing my cs2a to use .raw.xz and not .img.xz then ill update
+Burn the provided .img once extracted from .img.xz to usb or test in vm launch btrfs installer from desktop
 
 
 
