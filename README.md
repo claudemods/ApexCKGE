@@ -53,7 +53,7 @@
 <h1>All New Updates Will Be .img.xz Only</h1>
 
 
-<h1>New Fully Tested Working btrfs .img.xz comming with btrfsinstaller to install from a btrfs system</h1>
+<h1>New Fully Tested Working btrfs .img.xz coming with btrfsinstaller to install from a btrfs system</h1>
 
 
 ### Install Instructions
