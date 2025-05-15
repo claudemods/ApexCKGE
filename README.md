@@ -52,6 +52,10 @@
 
 <h1>All New Updates Will Be .img.xz Only</h1>
 
+
+<h1>New Fully Tested Working btrfs .img.xz comming with preinstalled btrfsinstaller to install from a btrfs system</h1>
+
+
 ### Install Instructions
 <div align="center">
 Burn the provided .img once extracted from .img.xz to usb or test in vm launch btrfs installer from desktop
