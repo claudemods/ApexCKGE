@@ -50,7 +50,7 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>All New Updates Will Be .img.xz Only And I will only be providing full editions</h1>
+<h1>All New Updates Will Be .img.xz Only And I will only be providing full editions for now</h1>
 
 
 <h1>New Fully Tested Working btrfs .img.xz coming with btrfsinstaller to install from a btrfs system</h1>
