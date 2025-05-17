@@ -50,7 +50,7 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>All New Updates Will Be .img.xz Only</h1>
+<h1>All New Updates Will Be .img.xz Only And I will only be providing full editions</h1>
 
 
 <h1>New Fully Tested Working btrfs .img.xz coming with btrfsinstaller to install from a btrfs system</h1>
@@ -71,20 +71,12 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 ![Apex Welcome](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
 
 
-<h1>Installed Applications In CKGE Minimal</h1>
-
-![Custom Apps](https://github.com/user-attachments/assets/78c4ac2c-e799-4266-bf3f-073fc9aed892)
-
 
 
 <h1>Installed Applications In CKGE Full</h1>
 
 ![Custom Apps](https://github.com/user-attachments/assets/6a848307-678d-4164-a176-65153035247c)
 
-
-<h1>Apex CachyOS Kde Stable Channel Desktop</h1>
-
-![Apex cachyOS Desktop](https://github.com/user-attachments/assets/67d494b1-471c-485e-ba9b-fcd66f6362b5)
 
 
 <h1>Apex CachyOS Kde Development Channel Desktop</h1>
