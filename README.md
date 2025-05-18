@@ -71,28 +71,9 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 ![Apex Welcome](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
 
 
+<h1>New Release Coming Currently Rebuild CKGE Minimal From Scratch</h1>
 
-
-<h1>Installed Applications In CKGE Full</h1>
-
-![Custom Apps](https://github.com/user-attachments/assets/6a848307-678d-4164-a176-65153035247c)
-
-
-
-<h1>Apex CachyOS Kde Development Channel Desktop</h1>
-
-![Apex cachyOS Desktop](https://github.com/user-attachments/assets/130e76f3-488a-47b4-a8d0-34007681c59d)
-
-
-<h1>Dolphin</h1>
-
-![Dolphin](https://github.com/user-attachments/assets/1d8a73e5-8360-4f02-902e-3690f4112f91)
-
-
-<h1>Custom System App</h1>
-
-![SystemApp](https://github.com/user-attachments/assets/3660b99c-e838-4021-b53b-5b09755d990c)
-
+![Screenshot_archlinux-clone_2025-05-18_20:35:31](https://github.com/user-attachments/assets/73c9fa53-9c18-4c13-aa00-eca64a0001b3)
 
 
 
