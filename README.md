@@ -78,6 +78,7 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 
 ![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
 
+![Screenshot_archlinux-clone_2025-05-18_22:23:31](https://github.com/user-attachments/assets/2fe3c893-df55-4b3b-bc9b-e43f6016d7a9)
 
 
 
