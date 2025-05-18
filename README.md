@@ -72,7 +72,8 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 
 <h1>Currently Rebuilding CKGE Minimal From Scratch</h1>
 
-![Screenshot_archlinux-clone_2025-05-18_21:45:51](https://github.com/user-attachments/assets/7b72d31c-2d04-415e-8ec7-5f35584e299e)
+![Screenshot_archlinux-clone_2025-05-18_21:47:38](https://github.com/user-attachments/assets/0e4d5a16-25b8-4655-9c23-296f9bd116f0)
+
 
 
 
