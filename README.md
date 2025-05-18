@@ -66,10 +66,6 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
    
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
 
-   <h1>Apex Welcome</h1>
-   
-![Apex Welcome](https://github.com/user-attachments/assets/822db7e0-83d9-4f85-a381-db25225f3ab2)
-
 
 <h1>New Release Coming</h1>
 
