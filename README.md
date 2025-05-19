@@ -65,6 +65,7 @@ advised installation method
 simply dd to a ssd/hdd 
   <div align="center">
  example dd command sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+      <div align="center">
 run the installer from homescreen and install to drive3and4
    <div align="center">
 this will keep drive 1 as the .img if you encounter any issues simply reinstall
