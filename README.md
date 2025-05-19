@@ -52,7 +52,9 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>all releases of v1.04 are being updated in a timely manor check back soon!</h1>
+<h1>all releases of v1.04 are being updated in a timely manor</h1>
+
+<h1>check back soon!</h1>
 
 
 <div align="center">
