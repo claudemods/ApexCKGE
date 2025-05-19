@@ -57,27 +57,37 @@
 
 <h1>New Fully Tested Working btrfs .img.xz coming with btrfsinstaller to install from a btrfs system</h1>
 
-
-### Install Instructions
 <div align="center">
-advised installation method
+Install Instructions
+
+<div align="center">
+Default advised installation method1
  <div align="center">
-simply dd to a ssd/hdd 
+simply dd to a ssd
+  <div align="center">hdd 
+  example dd command sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
   <div align="center">
- example dd command sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
-      <div align="center">
 run the installer from homescreen and install to drive3and4
    <div align="center">
 this will keep drive 1 as the .img if you encounter any issues simply reinstall
     <div align="center">
 you can use dd to install newer updates to the partition using the .img to test before updating
+<div align="center">
+Option installation method
+ <div align="center">
+simply dd to a usb
+ example dd command sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+  <div align="center">
+run the installer from homescreen and install to drive1and2
+
 
 <div align="center">
-Secondary Method Iso
+Secondary Advised Method Iso
  <div align="center">
 ive been doing alot of building, tinkering and testing lately nothing has been stable
   <div align="center">
 the aim is to build a iso for downloading and installing the .imgs
+
 
 
 
