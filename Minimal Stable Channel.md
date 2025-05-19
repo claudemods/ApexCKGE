@@ -2,11 +2,10 @@
 - default cachyos kde packages installed In Stable Channel
 
 **extra packages installed include**
-
+- btrfssystemcloner
+- brave browser
 - apex browser
 - apex html viewer
-- apex iso creator script
-- apex iso creator gui
 - bauh store appimage
 - dns manager appimage
 - stacer appimage
