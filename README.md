@@ -67,7 +67,7 @@ Simply dd to a SSD or HDD
 
 <div align="center">
 Example dd command:  
-`sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync`
+sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
 </div>
 
 <div align="center">
@@ -92,7 +92,7 @@ Simply dd to a USB
 
 <div align="center">
 Example dd command:  
-`sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync`
+sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
 </div>
 
 <div align="center">
