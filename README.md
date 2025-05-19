@@ -52,10 +52,8 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>New Updates Coming!</h1>
+<h1>all releases of v1.04 are being updated in a timely manor check back soon!</h1>
 
-
-<h1>New Fully Tested Working btrfs .img.xz coming with btrfsinstaller to install from a btrfs system</h1>
 
 <div align="center">
 
