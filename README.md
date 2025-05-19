@@ -60,7 +60,24 @@
 
 ### Install Instructions
 <div align="center">
-Burn the provided .img once extracted from .img.xz to usb or test in vm launch btrfs installer from desktop
+advised installation method
+ <div align="center">
+simply dd to a ssd/hdd 
+  <div align="center">
+ example dd command sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+run the installer from homescreen and install to drive3and4
+   <div align="center">
+this will keep drive 1 as the .img if you encounter any issues simply reinstall
+    <div align="center">
+you can use dd to install newer updates to the partition using the .img to test before updating
+
+<div align="center">
+Secondary Method Iso
+ <div align="center">
+ive been doing alot of building, tinkering and testing lately nothing has been stable
+  <div align="center">
+the aim is to build a iso for downloading and installing the .imgs
+
 
 
 
@@ -69,10 +86,6 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
 
 
-<h1>New Release Coming</h1>
-
-
-<h1>Currently Rebuilding CKGE Minimal From Scratch</h1>
 
 ![Screenshot_archlinux-clone_2025-05-18_22:00:42](https://github.com/user-attachments/assets/f2991fb0-48ac-402b-86a5-61b32611624c)
 
@@ -80,7 +93,6 @@ Burn the provided .img once extracted from .img.xz to usb or test in vm launch b
 
 ![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
 
-![Screenshot_archlinux-clone_2025-05-18_22:23:31](https://github.com/user-attachments/assets/2fe3c893-df55-4b3b-bc9b-e43f6016d7a9)
 
 
 
