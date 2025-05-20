@@ -9,7 +9,9 @@ if you plan to use from sdd/hdd
   <div align="center">
 navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstab.sh 
     <div align="center">
-reboot and login as usual my theme and stuff will be available you can then resize the partition of the .img you installed from a live environment
+reboot and login as usual my theme and stuff will be available
+      <div align="center"> 
+you can then resize the partition of the .img you installed from a live environment
 
 
 <div align="center">
