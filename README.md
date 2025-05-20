@@ -52,7 +52,7 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>all releases of v1.04 are being updated in a timely manor</h1>
+<h1>v1.04 releases being reuploaded due to cloning errors full is already up on google</h1>
 
 <h1>check back soon!</h1>
 
