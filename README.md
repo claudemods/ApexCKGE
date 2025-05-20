@@ -143,7 +143,8 @@ new full stable channel released
 
 ![Screenshot_archlinux_2025-05-19_15:09:41](https://github.com/user-attachments/assets/fc12f147-a930-4176-a76a-8034fe893f1c)
 
-![Screenshot_20250520_195206](https://github.com/user-attachments/assets/a70fd351-68e5-4302-a1fb-f7669fc561d2)
+![Screenshot_20250520_195517](https://github.com/user-attachments/assets/1c4faf03-20a8-49e4-ac1e-451cf9da7e08)
+
 
 
 
