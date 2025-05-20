@@ -18,7 +18,7 @@ Default advised installation method currently broken
 but will install .img on partition 1 and system on partion 3 and 4
 
 
-###Secondary Advised Method Iso
+Secondary Advised Method Iso
 <div align="center">
 ive been doing alot of building, tinkering and testing lately nothing has been stable
 the aim is to build a iso for downloading and installing the .imgs
