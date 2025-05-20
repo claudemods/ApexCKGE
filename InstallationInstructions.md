@@ -1,10 +1,13 @@
 installation methods 
 
 
-login as root since my home files wont exist until you execute the.sh
+login as root since my home files wont exist until you execute then .sh
+<div align="center">
 if you plan to use from sdd/hdd 
+  <div align="center">
 navigate to /opt/btrfs-installer/drive1and2/btrfsgenfstab.sh or /opt/btrfs-installer/drive1and2/btrfsgenfstab.sh
-reboot and login as usual my theme and stuff will be available
+    <div align="center">
+reboot and login as usual my theme and stuff will be available you can then resize the partition of the .img you installed from a live environment
 
 
 Default advised installation method currently broken 
