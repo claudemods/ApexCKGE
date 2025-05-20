@@ -4,12 +4,16 @@
 
 
 </div>
-simply dd to ssd/hdd Example dd command: sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+simply dd to ssd/hdd 
 <div align="center">
 
 </div>
 
+</div>
+Example dd command: sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+<div align="center">
 
+</div>
 
 </div>
 
