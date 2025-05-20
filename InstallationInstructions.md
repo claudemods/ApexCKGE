@@ -2,7 +2,7 @@
   
 ## Installation Methods
 
-</div>
+<div align="center">
 simply dd to ssd/hdd 
 <div align="center">
 
