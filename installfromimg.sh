@@ -22,6 +22,7 @@ sudo mount --bind /dev /mnt/dev
 sudo mount --bind /proc /mnt/proc
 sudo mount --bind /sys /mnt/sys
 sudo mount --bind /run /mnt/run
+sudo mount --bind /dev/pts /mnt/dev/pts
 
 # Chroot operations (EXACTLY as you want)
 sudo chroot /mnt /bin/bash -c "
