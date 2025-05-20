@@ -52,9 +52,9 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>v1.04 releases being reuploaded due to cloning errors full is already up on google</h1>
+<h1>v1.04 releases being reuploaded due to cloning error</h1>
 
-<h1>check back soon!</h1>
+<h1>v1.04 20-05-2025 full Stable Channel is already up on google</h1>
 
 
 <div align="center">
