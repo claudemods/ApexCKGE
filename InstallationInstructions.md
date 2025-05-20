@@ -3,7 +3,7 @@
 installation methods 
 
 <div align="center">
-login as root since my home files wont exist until you execute then .sh
+login as root since my home files wont exist until you execute the .sh on /opt........
 <div align="center">
 if you plan to use from sdd/hdd 
   <div align="center">
