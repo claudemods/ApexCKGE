@@ -1,27 +1,51 @@
+<div align="center">
+  
+## Installation Methods
+
+</div>
 
 <div align="center">
-installation methods 
+Login as root since my home files won't exist until you execute the .sh in /opt........ and reboot
+</div>
 
 <div align="center">
-login as root since my home files wont exist until you execute the .sh in /opt........ and reboot
-<div align="center">
-if you plan to use from sdd/hdd 
-  <div align="center">
-navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstab.sh 
-    <div align="center">
-reboot and login as usual my theme and stuff will be available
-      <div align="center"> 
-you can then resize the partition of the .img you installed from a live environment
-
+  
+### If you plan to use from SSD/HDD:
+  
+</div>
 
 <div align="center">
-Default advised installation method currently broken 
+Navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstab.sh 
+</div>
+
 <div align="center">
-but will install .img on partition 1 and system on partion 3 and 4
+Reboot and login as usual - my theme and stuff will be available
+</div>
 
+<div align="center"> 
+You can then resize the partition of the .img you installed from a live environment
+</div>
 
-Secondary Advised Method Iso
 <div align="center">
-ive been doing alot of building, tinkering and testing lately nothing has been stable
-the aim is to build a iso for downloading and installing the .imgs
+  
+## Default Advised Installation Method (Currently Broken)
+  
+</div>
 
+<div align="center">
+Will install .img on partition 1 and system on partition 3 and 4
+</div>
+
+<div align="center">
+  
+## Secondary Advised Method (ISO)
+  
+</div>
+
+<div align="center">
+I've been doing a lot of building, tinkering and testing lately - nothing has been stable
+</div>
+
+<div align="center">
+The aim is to build an ISO for downloading and installing the .imgs
+</div>
