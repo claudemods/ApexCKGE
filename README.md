@@ -137,7 +137,7 @@ The aim is to build an ISO for downloading and installing the .imgs
 ![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
 
 
-new full edition being built 13:58 uk time 19-05-2025
+new full stable channel released
 
 ![Screenshot_archlinux_2025-05-19_13:57:42](https://github.com/user-attachments/assets/bcfd34d0-d724-49df-aa42-40577142ab3b)
 
