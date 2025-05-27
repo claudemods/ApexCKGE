@@ -137,9 +137,15 @@ The aim is to build an ISO for downloading and installing the .imgs
 ![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
 
 
-new full stable channel released
+1.04.1 full stable channel coming with fixed appimages new login screen new splash apex music and ppsspp
 
-![Screenshot_archlinux_2025-05-19_13:57:42](https://github.com/user-attachments/assets/bcfd34d0-d724-49df-aa42-40577142ab3b)
+
+![Screenshot_archlinux-clone_2025-05-27_19:06:19](https://github.com/user-attachments/assets/32b991b9-ad8d-4063-820e-396898dcbede)
+
+
+
+
+
 
 ![Screenshot_archlinux_2025-05-19_15:09:41](https://github.com/user-attachments/assets/fc12f147-a930-4176-a76a-8034fe893f1c)
 
