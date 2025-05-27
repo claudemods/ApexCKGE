@@ -140,7 +140,8 @@ The aim is to build an ISO for downloading and installing the .imgs
 1.04.1 full stable channel coming with fixed appimages new login screen new splash apex music and ppsspp
 
 
-![Screenshot_archlinux-clone_2025-05-27_19:06:19](https://github.com/user-attachments/assets/32b991b9-ad8d-4063-820e-396898dcbede)
+![Screenshot_archlinux_2025-05-27_21:27:24](https://github.com/user-attachments/assets/4f8a3122-ff6d-405c-a65e-3dd0edea34f8)
+
 
 
 
