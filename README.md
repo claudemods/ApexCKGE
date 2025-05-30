@@ -128,7 +128,7 @@ The aim is to build an ISO for downloading and installing the .imgs
    
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
 
-new v1.04.2 FUll Stable Channel coming last update of the month backing up now
+new v1.04.2 Full Stable Channel coming last update of the month backing up now
 ![Screenshot_20250530_225905](https://github.com/user-attachments/assets/2f5fe21f-3902-407f-8596-98880ceece9a)
 
 
