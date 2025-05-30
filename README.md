@@ -29,25 +29,28 @@
 
 
 ## Key Features! 🛡️📦 
-  **1) Btrfs And Brave Browser**
-  
-  **2) custom taskbar similar to windows**
 
-  **3) windows ntfs drive support**
+  **1) Btrfs Zstd Compression Level 15**
 
-  **4) added support for usbs in virt-manager**
+  **2) Brave Browser**
   
-  **5) custom desktop photo**
+  **3) custom taskbar similar to windows**
+
+  **4) windows ntfs drive support**
+
+  **5) added support for usbs in virt-manager**
+  
+  **6) custom desktop photo**
  
-  **6) custom dolphin service menus**
+  **7) custom dolphin service menus**
  
-  **7) latest system packages including kernel**
+  **8) latest system packages including kernel**
  
-  **8) custom set of applications tailored for gamers**
+  **9) custom set of applications tailored for gamers**
  
-  **9) custom system app to change the desktop photo or taskbar colour and more!**
+  **10) custom system app to change the desktop photo or taskbar colour and more!**
  
-  **10) always tested before its uploaded and you can find known issues in changelogs**
+  **11) always tested before its uploaded and you can find known issues in changelogs**
 
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
