@@ -144,10 +144,11 @@ new v1.04.2 Full Stable Channel coming last update of the month backing up now
 ![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
 
 
-1.04.1 full stable channel coming with fixed appimages new login screen new splash apex music and ppsspp
+1.04.2 full stable channel coming with new obs-studio gimp and inkscape added also zstd level 15 compression
 
 
-![Screenshot_archlinux_2025-05-27_22:42:31](https://github.com/user-attachments/assets/58bb0cd9-d82b-43ea-bbde-023211ff3f66)
+![Screenshot_archlinux-clone1_2025-05-31_01:00:45](https://github.com/user-attachments/assets/8e19fe62-1903-493c-b302-474f2acad61b)
+
 
 
 
