@@ -127,42 +127,6 @@ The aim is to build an ISO for downloading and installing the .imgs
 
 
 
-   <h1>CachyOS Welcome</h1>
-   
-![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
-
-new v1.04.2 Full Stable Channel coming last update of the month backing up now
-![Screenshot_20250530_225905](https://github.com/user-attachments/assets/2f5fe21f-3902-407f-8596-98880ceece9a)
-
-
-
-
-![Screenshot_archlinux-clone_2025-05-18_22:00:42](https://github.com/user-attachments/assets/f2991fb0-48ac-402b-86a5-61b32611624c)
-
-
-
-![Screenshot_archlinux-clone_2025-05-18_20:43:27](https://github.com/user-attachments/assets/9c9160f3-4df9-4313-9d01-7b019ac15f2f)
-
-
-1.04.2 full stable channel coming with new obs-studio gimp and inkscape added also zstd level 15 compression
-
-
-![Screenshot_archlinux-clone1_2025-05-31_01:00:45](https://github.com/user-attachments/assets/8e19fe62-1903-493c-b302-474f2acad61b)
-
-
-
-
-
-
-
-
-
-
-![Screenshot_archlinux_2025-05-19_15:09:41](https://github.com/user-attachments/assets/fc12f147-a930-4176-a76a-8034fe893f1c)
-
-![Screenshot_20250520_195517](https://github.com/user-attachments/assets/1c4faf03-20a8-49e4-ac1e-451cf9da7e08)
-
-
 
 
 <strong> Copyright <2025> <claudemods> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. <strong>
