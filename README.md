@@ -78,14 +78,11 @@ Example dd command: sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/
 Login as root since my home files won't exist until you execute the .sh in /opt........ and reboot
 </div>
 
-<div align="center">
-  
-### If you plan to use from SSD/HDD:
-  
+
 </div>
 
 <div align="center">
-Navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstab.sh 
+Navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstabcompressed.sh 
 </div>
 
 <div align="center">
@@ -93,7 +90,7 @@ Reboot and login as usual - my theme and stuff will be available
 </div>
 
 <div align="center"> 
-You can then resize the partition of the .img you installed from a live environment
+You can then resize the partition 
 </div
 
 ##  [Click Here For Photos](https://github.com/claudemods/ApexCKGE/tree/main/Photos)
