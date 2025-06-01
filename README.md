@@ -55,17 +55,13 @@
 
 ##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
 
-<h1>v1.04 releases being reuploaded due to cloning error</h1>
-
-<h1>v1.04 20-05-2025 full Stable Channel is already up on google</h1>
-
 
 <div align="center">
   
 ## Installation Methods
 
 <div align="center">
-simply dd to ssd/hdd 
+simply for now dd to ssd/hdd 
 <div align="center">
 
 </div>
@@ -98,36 +94,9 @@ Reboot and login as usual - my theme and stuff will be available
 
 <div align="center"> 
 You can then resize the partition of the .img you installed from a live environment
-</div>
+</div
 
-<div align="center">
-  
-## Default Advised Installation Method (Currently Broken)
-  
-</div>
-
-<div align="center">
-Will install .img on partition 1 and system on partition 3 and 4
-</div>
-
-<div align="center">
-  
-## Secondary Advised Method (ISO)
-  
-</div>
-
-<div align="center">
-I've been doing a lot of building, tinkering and testing lately - nothing has been stable
-</div>
-
-<div align="center">
-The aim is to build an ISO for downloading and installing the .imgs
-</div>
-
-
-
-
-
+##  [Click Here For Photos](https://github.com/claudemods/ApexCKGE/tree/main/Photos)
 
 <strong> Copyright <2025> <claudemods> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. <strong>
 </div>
