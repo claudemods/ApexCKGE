@@ -7,6 +7,7 @@
 
  
 ##  [All .img.xz Created With BTRFS SYSTEM CLONER](https://github.com/claudemods/btrfssystemcloner)
+##  [All .iso's Created With claudemods img iso creator](https://github.com/claudemods/claudemods-multi-iso-konsole-script)
 
 <div align="center">
 
