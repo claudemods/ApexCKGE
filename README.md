@@ -33,7 +33,7 @@
 
 ## Key Features! 🛡️📦 
 
-  **1) Btrfs Zstd Compression Level 15**
+  **1) ext4/Btrfs Zstd Compression Level 15**
 
   **2) Brave Browser**
   
